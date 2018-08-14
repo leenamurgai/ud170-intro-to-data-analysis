@@ -1,0 +1,5 @@
+*.DS_Store
+*.html
+*.png
+*/.ipynb_checkpoints/*
+Lesson2/daily_engagement_full.csv
