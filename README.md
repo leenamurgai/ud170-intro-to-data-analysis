@@ -1,6 +1,6 @@
-# intro-to-data-analysis
+# ud170-intro-to-data-analysis
 
-## [Introduction to Data Analysis Udacity Course (Caroline Buckey)](https://www.udacity.com/course/intro-to-data-analysis--ud170)
+## [UD170 Introduction to Data Analysis Udacity Course (Caroline Buckey)](https://www.udacity.com/course/intro-to-data-analysis--ud170)
 
 [Course Notes](https://github.com/leenamurgai/intro-to-data-analysis/blob/master/DANotes.pdf)
 
